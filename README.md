@@ -8,6 +8,7 @@
 
 <br>
 <h1> REGISTRO IN PATH</h1>
+<p> In this basic registry, data is captured from a form to be sent via a GET request using Axios an js.</p>
 <a> Java, CSS, HTML </a>
 
 <p></p><em> Version: apache-maven-3.9.9-bin </em> </p>

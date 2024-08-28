@@ -1,6 +1,6 @@
 # GUI Display
 
-<a> This repository contains only two tasks developed in the subject of Web Systems. In the below are the versions that were used. </a>
+<a> This repository contains <b>only two tasks developed in the subject of Web Systems</b>. In the below are the versions that were used. </a>
 <br>
 <h1> BASIC CALCULATOR</h1>
 <a> CSS and HTML </a>
@@ -9,7 +9,8 @@
 <br>
 <h1> REGISTRO IN PATH</h1>
 <a> Java, CSS, HTML </a>
-<a><em> Version: apache-maven-3.9.9-bin </em> </a>
+
+<p></p><em> Version: apache-maven-3.9.9-bin </em> </p>
 <img width="951" alt="registro_IMG1" src="https://github.com/user-attachments/assets/81501299-9cb8-4536-9bb6-227c2ba8ec78">
 <img width="946" alt="Formulario_IMG2" src="https://github.com/user-attachments/assets/0262d85f-92e4-4e43-819b-40c1ca81add6">
 
